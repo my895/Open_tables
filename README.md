@@ -5,6 +5,8 @@
 
 An end-to-end solution for building modern data pipelines with Open Tables and Delta Lake. This project demonstrates core Delta Lake functionality for reliable data management.
 
+<img width="1240" height="1162" alt="image" src="https://github.com/user-attachments/assets/c0c6871f-2e99-4617-a191-dfa48cf5628c" />
+
 ## Features
 
 ### Core Operations
